@@ -1,0 +1,10 @@
+langchain
+huggingface_hub
+sentence-transformers
+tiktoken
+streamlit
+youtube-transcript-api
+docx2txt
+pypdf
+unstructured
+faiss-cpu
